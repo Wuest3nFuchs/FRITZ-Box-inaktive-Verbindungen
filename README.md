@@ -1,4 +1,4 @@
-![Fritbox Logo]([https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.HxKKnpQecUK243EsYPERFwHaHa%3Fpid%3DApi&f=1&ipt=ff44294fb2ce197843de79ffbccfb342f51878be25efd5da0dbcb46cf84e079e&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.DcK6bheFI4IO89BolJ1YQQAAAA%3Fpid%3DApi&f=1&ipt=08ddd70acb91d7010e12b1c378da5ab95107f069972b335d0466a795977608bf&ipo=images))
+![Fritbox Logo]([https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.HxKKnpQecUK243EsYPERFwHaHa%3Fpid%3DApi&f=1&ipt=ff44294fb2ce197843de79ffbccfb342f51878be25efd5da0dbcb46cf84e079e&ipo=images])
 
 # FRITZ-Box-inaktive-Verbindungen
 Python-Skript: inaktive Verbindungen auf einer FRITZ!Box per TR-064 beenden
